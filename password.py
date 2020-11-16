@@ -35,7 +35,7 @@ first = ['had', 'throws', 'buys', 'bites', 'blows', 'hates', 'likes', 'bangs', '
 
 second = ['your', 'our', 'racist', 'hairy', 'many', 'green', 'giant', 'all', 'three', 'five', 'hundred', 'ugly', 'my', 'black', 'nice', 'small', 'horny', 'little', 'ten', 'loverboy', 'wwe', 'password', 'super']
 
-third = ['hammers', 'apples', 'monkeys', 'babies', 'kids', 'hands', 'horses', 'trees3 'cats', 'asses', 'computers', 'mangoes', 'dildos', 'poles', 'dogs', 'pussies', 'aliens', 'hackers', 'brother',]
+third = ['hammers', 'apples', 'monkeys', 'babies', 'kids', 'hands', 'horses', 'trees', 'cats', 'asses', 'computers', 'mangoes', 'dildos', 'poles', 'dogs', 'pussies', 'aliens', 'hackers', 'brother',]
 
 seperators = ['-', '.', '*', '+', '~', '_', '/', '\\', '@']
 
